@@ -2,6 +2,7 @@
 
 **Posture-Check** is an integrated hardware + software system designed to monitor and improve user posture in real time using embedded sensors and visual feedback.
 
+https://posture-check-frontend.vercel.app/
 ---
 
 ## 🤝 Project Origin & Contributions
