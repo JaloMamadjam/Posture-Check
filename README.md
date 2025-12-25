@@ -4,6 +4,7 @@
 
 https://posture-check-frontend.vercel.app/
 ---
+<img width="833" height="592" alt="image" src="https://github.com/user-attachments/assets/51939f3d-e78c-442a-831f-7173ed256fac" />
 
 ## 🤝 Project Origin & Contributions
 
